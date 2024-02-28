@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mngunizulu
-- 👀 I’m interested in historcal and predictive data
+- 👀 I’m interested in historcal and predictive data analysis
 - 🌱 I’m currently learning more about machine learning
 - 💞️ I’m looking to collaborate on business cases, research and health projects
 - 📫 Email me mnguni.msimang@gmail.com
